@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ProjectModuleManager">
+    <modules>
+      <module fileurl="file://$PROJECT_DIR$/collection_service/collection_service.iml" filepath="$PROJECT_DIR$/collection_service/collection_service.iml" />
+      <module fileurl="file://$PROJECT_DIR$/collection_web/collection_web.iml" filepath="$PROJECT_DIR$/collection_web/collection_web.iml" />
+      <module fileurl="file://$PROJECT_DIR$/learn_collection.iml" filepath="$PROJECT_DIR$/learn_collection.iml" />
+    </modules>
+  </component>
+</project>

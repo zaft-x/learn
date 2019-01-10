@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="CompilerConfiguration">
+    <annotationProcessing>
+      <profile name="Maven default annotation processors profile" enabled="true">
+        <sourceOutputDir name="target/generated-sources/annotations" />
+        <sourceTestOutputDir name="target/generated-test-sources/test-annotations" />
+        <outputRelativeToContentRoot value="true" />
+        <module name="collection_service" />
+        <module name="collection_web" />
+        <module name="collectionweb" />
+      </profile>
+    </annotationProcessing>
+    <bytecodeTargetLevel>
+      <module name="collection_service" target="1.5" />
+      <module name="collection_web" target="1.7" />
+      <module name="collectionweb" target="1.7" />
+      <module name="learn_collection" target="1.5" />
+    </bytecodeTargetLevel>
+  </component>
+</project>
