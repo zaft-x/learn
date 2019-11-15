@@ -11,6 +11,7 @@
     <modules>
         <module>collection_service</module>
         <module>collection_web</module>
+        <module>common</module>
     </modules>
 
 

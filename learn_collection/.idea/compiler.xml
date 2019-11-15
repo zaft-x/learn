@@ -6,8 +6,9 @@
         <sourceOutputDir name="target/generated-sources/annotations" />
         <sourceTestOutputDir name="target/generated-test-sources/test-annotations" />
         <outputRelativeToContentRoot value="true" />
-        <module name="collection_service" />
+        <module name="common" />
         <module name="collection_web" />
+        <module name="collection_service" />
         <module name="collectionweb" />
       </profile>
     </annotationProcessing>
@@ -15,6 +16,7 @@
       <module name="collection_service" target="1.5" />
       <module name="collection_web" target="1.7" />
       <module name="collectionweb" target="1.7" />
+      <module name="common" target="1.7" />
       <module name="learn_collection" target="1.5" />
     </bytecodeTargetLevel>
   </component>
