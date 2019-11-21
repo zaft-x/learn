@@ -3,6 +3,8 @@
   <component name="FrameworkDetectionExcludesConfiguration">
     <file type="web" url="file://$PROJECT_DIR$/collection_web" />
     <file type="web" url="file://$PROJECT_DIR$/collectionweb" />
+    <file type="web" url="file://$PROJECT_DIR$/learn_mybatis" />
+    <file type="web" url="file://$PROJECT_DIR$/learn_redis" />
   </component>
   <component name="MavenProjectsManager">
     <option name="originalFiles">

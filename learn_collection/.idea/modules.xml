@@ -6,6 +6,8 @@
       <module fileurl="file://$PROJECT_DIR$/collection_web/collection_web.iml" filepath="$PROJECT_DIR$/collection_web/collection_web.iml" />
       <module fileurl="file://$PROJECT_DIR$/common/common.iml" filepath="$PROJECT_DIR$/common/common.iml" />
       <module fileurl="file://$PROJECT_DIR$/learn_collection.iml" filepath="$PROJECT_DIR$/learn_collection.iml" />
+      <module fileurl="file://$PROJECT_DIR$/learn_mybatis/learn_mybatis.iml" filepath="$PROJECT_DIR$/learn_mybatis/learn_mybatis.iml" />
+      <module fileurl="file://$PROJECT_DIR$/learn_redis/learn_redis.iml" filepath="$PROJECT_DIR$/learn_redis/learn_redis.iml" />
     </modules>
   </component>
 </project>

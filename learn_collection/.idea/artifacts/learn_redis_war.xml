@@ -1,0 +1,14 @@
+<component name="ArtifactManager">
+  <artifact type="war" name="learn_redis:war">
+    <output-path>$PROJECT_DIR$/learn_redis/target</output-path>
+    <properties id="maven-jee-properties">
+      <options>
+        <module>learn_redis</module>
+        <packaging>war</packaging>
+      </options>
+    </properties>
+    <root id="archive" name="lear_redis.war">
+      <element id="artifact" artifact-name="learn_redis:war exploded" />
+    </root>
+  </artifact>
+</component>

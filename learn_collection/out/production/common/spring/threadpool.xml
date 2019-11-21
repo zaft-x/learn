@@ -1,0 +1,31 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<beans xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+	xmlns="http://www.springframework.org/schema/beans" xmlns:context="http://www.springframework.org/schema/context"
+	xmlns:jms="http://www.springframework.org/schema/jms"
+	xsi:schemaLocation="http://www.springframework.org/schema/beans
+        http://www.springframework.org/schema/beans/spring-beans.xsd  
+        http://www.springframework.org/schema/context
+        http://www.springframework.org/schema/context/spring-context.xsd
+		http://www.springframework.org/schema/jms
+		http://www.springframework.org/schema/jms/spring-jms.xsd">
+		
+	<!-- 
+		线程池 使用方法:
+		@Autowired
+		AsyncTaskExecutor taskExecutor
+		1、不带返回值
+			void execute(Runnable task);
+		2、带返回值
+			Future<?> submit(Runnable task);
+			<T> Future<T> submit(Callable<T> task);
+	 -->
+	<bean id="taskExecutor" class="org.springframework.scheduling.concurrent.ThreadPoolTaskExecutor">
+		<property name="corePoolSize" value="8" />
+		<property name="keepAliveSeconds" value="200" />
+		<property name="maxPoolSize" value="150" />
+		<property name="queueCapacity" value="50" />
+		<property name="rejectedExecutionHandler">
+			<bean class="java.util.concurrent.ThreadPoolExecutor$CallerRunsPolicy" />
+		</property>
+	</bean>
+</beans>

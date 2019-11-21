@@ -6,10 +6,12 @@
         <sourceOutputDir name="target/generated-sources/annotations" />
         <sourceTestOutputDir name="target/generated-test-sources/test-annotations" />
         <outputRelativeToContentRoot value="true" />
-        <module name="common" />
         <module name="collection_web" />
         <module name="collection_service" />
+        <module name="learn_mybatis" />
+        <module name="common" />
         <module name="collectionweb" />
+        <module name="learn_redis" />
       </profile>
     </annotationProcessing>
     <bytecodeTargetLevel>
@@ -18,6 +20,8 @@
       <module name="collectionweb" target="1.7" />
       <module name="common" target="1.7" />
       <module name="learn_collection" target="1.5" />
+      <module name="learn_mybatis" target="1.7" />
+      <module name="learn_redis" target="1.7" />
     </bytecodeTargetLevel>
   </component>
 </project>
