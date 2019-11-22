@@ -2,6 +2,15 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="dfb32b0f-aee6-4dc5-af48-9ba063884efd" name="Default" comment="learn  model common">
+      <change afterPath="$PROJECT_DIR$/../dailyLearning/springboot-study/src/main/java/zaft/learn/springbootstudy/bean/Demo.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../dailyLearning/springboot-study/src/main/java/zaft/learn/springbootstudy/contorller/App.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../dailyLearning/springboot-study/src/main/java/zaft/learn/springbootstudy/contorller/DemoController.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../dailyLearning/.idea/compiler.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../dailyLearning/.idea/compiler.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../dailyLearning/.idea/encodings.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../dailyLearning/.idea/encodings.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../dailyLearning/.idea/misc.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../dailyLearning/.idea/misc.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../dailyLearning/pom.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../dailyLearning/pom.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../dailyLearning/springboot-study/pom.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../dailyLearning/springboot-study/pom.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../dailyLearning/springboot-study/src/main/resources/application.properties" beforeDir="false" afterPath="$PROJECT_DIR$/../dailyLearning/springboot-study/src/main/resources/application.properties" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />

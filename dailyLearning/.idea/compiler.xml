@@ -6,14 +6,18 @@
         <sourceOutputDir name="target/generated-sources/annotations" />
         <sourceTestOutputDir name="target/generated-test-sources/test-annotations" />
         <outputRelativeToContentRoot value="true" />
-        <module name="mybatis-study" />
         <module name="springboot-study" />
+        <module name="mybatis-study" />
       </profile>
     </annotationProcessing>
+    <bytecodeTargetLevel>
+      <module name="demo" target="1.8" />
+    </bytecodeTargetLevel>
   </component>
   <component name="JavacSettings">
     <option name="ADDITIONAL_OPTIONS_OVERRIDE">
-      <module name="mybatis-study" options="" />
+      <module name="demo" options="-parameters" />
+      <module name="mybatis-study" options="-parameters" />
       <module name="springboot-study" options="-parameters" />
     </option>
   </component>
