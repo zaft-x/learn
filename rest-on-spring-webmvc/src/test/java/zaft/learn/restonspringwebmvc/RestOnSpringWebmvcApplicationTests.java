@@ -9,5 +9,4 @@ class RestOnSpringWebmvcApplicationTests {
     @Test
     void contextLoads() {
     }
-
 }
