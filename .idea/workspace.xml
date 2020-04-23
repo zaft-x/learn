@@ -1,8 +1,9 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="c5c685e0-8f80-4a84-9dca-da291232dc21" name="Default Changelist" comment="" />
-    <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
+    <list default="true" id="c5c685e0-8f80-4a84-9dca-da291232dc21" name="Default Changelist" comment="">
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+    </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -13,22 +14,11 @@
   </component>
   <component name="ProjectId" id="1TdjvaQxwW6JTuEhnYXIZ3hsh7K" />
   <component name="PropertiesComponent">
+    <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
     <property name="WebServerToolWindowFactoryState" value="false" />
     <property name="aspect.path.notification.shown" value="true" />
-    <property name="last_opened_file_path" value="$PROJECT_DIR$/learn_collection" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$" />
     <property name="settings.editor.selected.configurable" value="reference.settings.ide.settings.file-colors" />
-  </component>
-  <component name="RunDashboard">
-    <option name="ruleStates">
-      <list>
-        <RuleState>
-          <option name="name" value="ConfigurationTypeDashboardGroupingRule" />
-        </RuleState>
-        <RuleState>
-          <option name="name" value="StatusDashboardGroupingRule" />
-        </RuleState>
-      </list>
-    </option>
   </component>
   <component name="SvnConfiguration">
     <configuration />
@@ -41,7 +31,16 @@
       <option name="presentableId" value="Default" />
       <updated>1573797097470</updated>
       <workItem from="1573797099048" duration="160000" />
+      <workItem from="1587649637701" duration="237000" />
     </task>
+    <task id="LOCAL-00001" summary="learn">
+      <created>1587649698956</created>
+      <option name="number" value="00001" />
+      <option name="presentableId" value="LOCAL-00001" />
+      <option name="project" value="LOCAL" />
+      <updated>1587649698956</updated>
+    </task>
+    <option name="localTasksCounter" value="2" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -57,5 +56,27 @@
         </entry>
       </map>
     </option>
+  </component>
+  <component name="VcsManagerConfiguration">
+    <MESSAGE value="learn" />
+    <option name="LAST_COMMIT_MESSAGE" value="learn" />
+  </component>
+  <component name="WindowStateProjectService">
+    <state x="250" y="0" key="CommitChangelistDialog2" timestamp="1587649690206">
+      <screen x="0" y="0" width="1280" height="689" />
+    </state>
+    <state x="250" y="0" key="CommitChangelistDialog2/0.0.1280.689@0.0.1280.689" timestamp="1587649690206" />
+    <state x="0" y="0" key="MergeDialog" timestamp="1587649759479">
+      <screen x="0" y="0" width="1280" height="689" />
+    </state>
+    <state x="0" y="0" key="MergeDialog/0.0.1280.689@0.0.1280.689" timestamp="1587649759479" />
+    <state x="0" y="0" key="MultipleFileMergeDialog" timestamp="1587649759486">
+      <screen x="0" y="0" width="1280" height="689" />
+    </state>
+    <state x="0" y="0" key="MultipleFileMergeDialog/0.0.1280.689@0.0.1280.689" timestamp="1587649759486" />
+    <state x="233" y="79" key="Vcs.Push.Dialog.v2" timestamp="1587649708302">
+      <screen x="0" y="0" width="1280" height="689" />
+    </state>
+    <state x="233" y="79" key="Vcs.Push.Dialog.v2/0.0.1280.689@0.0.1280.689" timestamp="1587649708302" />
   </component>
 </project>
