@@ -1,0 +1,7 @@
+springboot 20 以后 如果使用springwebmvc 作为web服务 默认情况使用嵌入式tomcat
+spring web flux 默认使用，嵌入式netty web server
+
+数据库连接池 技术
+
+
+单数据源
